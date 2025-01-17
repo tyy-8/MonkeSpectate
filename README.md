@@ -1,1 +1,2 @@
 # MonkeSpectate
+## spectate other monkeys
